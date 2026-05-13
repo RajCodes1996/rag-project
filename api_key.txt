@@ -1,0 +1,2 @@
+GROQ_API_KEY (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)
+langsmith api - (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)
